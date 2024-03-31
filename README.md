@@ -6,4 +6,8 @@ underperform across an entire map. In response, we propose a novel solution by p
 distinct sampling methods in different map segments. Leveraging machine learning, our approach identifies the most effective
 sampling method for each map segment, resulting in a nonuniform dynamic sampling strategy. This innovative method
 eliminates the need for oversampling across the entire map, offering an efficient path-finding solution. The project involved
-an N-Link chain as the robotic model in our project.
+an N-Link chain as the robotic model in our project.  
+
+![Alt Text](https://github.com/DhirajRouniyar/Assets/blob/main/Images/Pipeline.png)  
+![Alt Text](https://github.com/DhirajRouniyar/Assets/blob/main/Images/Retracting%20chain.png)   
+![Alt Text](https://github.com/DhirajRouniyar/Assets/blob/main/Images/Sampling%20methods.png)  
