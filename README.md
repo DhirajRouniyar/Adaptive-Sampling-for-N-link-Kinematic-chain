@@ -8,6 +8,10 @@ sampling method for each map segment, resulting in a nonuniform dynamic samplin
 eliminates the need for oversampling across the entire map, offering an efficient path-finding solution. The project involved
 an N-Link chain as the robotic model in our project.  
 
+Refer [report](https://github.com/DhirajRouniyar/Adaptive-Sampling-for-N-link-Kinematic-chain/blob/main/Report/RBE550_Final_Project_Final_Report.pdf) for more details.
+
+
+
 ![Alt Text](https://github.com/DhirajRouniyar/Assets/blob/main/Images/Pipeline.png)  
 ![Alt Text](https://github.com/DhirajRouniyar/Assets/blob/main/Images/Retracting%20chain.png)   
 ![Alt Text](https://github.com/DhirajRouniyar/Assets/blob/main/Images/Sampling%20methods.png)  
